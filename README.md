@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="320" src="https://github.com/swoole/swoole-src/blob/master/mascot.png">
+  <img width="720" src="https://github.com/swoole/swoole-src/blob/master/mascot.png">
 </p>
 
 cooming soon
